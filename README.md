@@ -3,15 +3,13 @@
 # To Play the Game:
 
 - Windows:
-  - Go to /ZombieInvasion/Builds/Windows
-  - Select the "ZombieInvasion_Windows.zip" file and download it
+  - https://drive.google.com/file/d/1_uzxel4P4eVlbDso9JQroJGDP727yAHA/view?usp=sharing
   - After downloading, go to extract the zip folder
   - After extracting you can double click to play the game
   - If there is a security popup, select more info and run anyways
   - Enjoy!!!
 - Mac: 
-  - Go to /ZombieInvasion/Builds/Mac
-  - Select the "ZombieInvasion_Mac.zip" file and download it
+  - https://drive.google.com/file/d/1hxWtPoyU-jkBTz-P0-xCo8wOAtE8Rvyi/view?usp=sharing
   - After downloading, go to extract the zip folder
   - After extracting there will be an application to run.
   - If you have a security popup you will need to do the following:
