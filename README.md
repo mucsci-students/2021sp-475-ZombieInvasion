@@ -42,5 +42,5 @@
   - "Flooded Grounds" by Sandro T
   - Unity Standard Assets
 
-#Bugs
+# Bugs
 - Sometimes the pause menu gets bugged due to a weird situation with the first-person controller. To fix just escape out of the pause menu and try again! Thank you for your patience. 
